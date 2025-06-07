@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.tar
+*.gz
+.ipynb_checkpoints/
+.vscode/
